@@ -34,7 +34,7 @@ Como Executar 🛠️
 
 Clone o repositório:
 
-git clone https://github.com/Anthony-Kalyl/amigo-secreto.git
+git clone (https://github.com/Anthony-Kalyl/Challenge)
 
 Abra a pasta do projeto e clique duas vezes em index.html para abrir no navegador.
 
